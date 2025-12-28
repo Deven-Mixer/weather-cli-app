@@ -1,0 +1,2 @@
+# weather-cli-app
+A command-line tool to check real-time weather using a public API. Made with Python and Requests library.
