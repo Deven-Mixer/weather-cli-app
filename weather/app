@@ -1,3 +1,6 @@
 A command-line tool to check real-time weather using a public API. Made with Python and Requests library.
 
 Python • JavaScript • HTML
+print("hey")
+main.py 
+print("hello")
